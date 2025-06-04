@@ -1,0 +1,4 @@
+# *.jpg
+*.NEF
+*.dng
+output/
