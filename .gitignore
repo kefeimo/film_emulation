@@ -1,4 +1,6 @@
 # *.jpg
 *.NEF
 *.dng
+*.tif
+*.TIF
 output/
