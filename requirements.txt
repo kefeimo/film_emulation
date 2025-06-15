@@ -1,4 +1,9 @@
-rawpy
-imageio
-opencv-python
 numpy
+opencv-python
+Pillow
+matplotlib
+scikit-image
+scikit-learn
+scipy
+rawpy
+Pillow
